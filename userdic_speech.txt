@@ -1,0 +1,7 @@
+IT	NNP
+OLED	NNP
+코로나 NNP
+디바이스	NNP
+어플리케이션	NNP
+해양플랜트	NNP
+바이오플랜트		NNP
