@@ -118,11 +118,33 @@ def text_tokenizing(corpus, tokenizer):
 ## Wordcloud
 
 - 연도별, 산업군별, 기업별로 각각 진행
+    - 연도별
+        - ![image-20211128232344613](README.assets/image-20211128232344613.png)
 
-## Graph Analysis
+    - 산업군별
+        - ![image-20211128232426930](README.assets/image-20211128232426930.png)
 
-- 연도별, 산업군별, 기업별로 각각 진행
+    - 기업별
+        - ![image-20211128232442580](README.assets/image-20211128232442580.png)
+
+
+
+
+
+
+## Network Analysis
+
+- ![image-20211128232517323](README.assets/image-20211128232517323.png)
+- 연도별, 산업군별로 각각 진행
+    - 연도별
+        - ![image-20211128232539833](README.assets/image-20211128232539833.png)
+
+    - 산업군별
+        - ![image-20211128232601501](README.assets/image-20211128232601501.png)
+
 
 ## Conclusion
 
-- 추후 작성 예정
+- ![image-20211128232617973](README.assets/image-20211128232617973.png)
+
+![image-20211128232632150](README.assets/image-20211128232632150.png)
